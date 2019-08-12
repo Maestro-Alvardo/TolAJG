@@ -1,0 +1,7 @@
+A                     AA
+A                   AAAAAA
+A                 AAA   AAA
+A                AAAA   AAAA
+A               AAAAAAAAAAAAA
+AA            AAAAAAAAAAAAAAAAA
+             AAAAAAAAAAAAAAAAAAA
